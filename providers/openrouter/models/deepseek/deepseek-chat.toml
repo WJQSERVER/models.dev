@@ -8,8 +8,8 @@ from = "deepseek/deepseek-chat"
 omit = ["cost.cache_read"]
 
 [cost]
-input = 0.2288
-output = 0.9144
+input = 0.2574
+output = 1.0287
 
 [limit]
 context = 128_000
